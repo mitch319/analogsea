@@ -53,6 +53,7 @@ img{
 }
 
  button{
+ 	width: 100%;
  	height: auto;
     font-size: 22px;
     font-weight: 500;
@@ -64,6 +65,7 @@ img{
     margin-bottom: 0;
     align-items: flex-end;
     position: center;
+    border-radius: 5px;
 
 }
 

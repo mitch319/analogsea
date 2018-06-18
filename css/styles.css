@@ -62,7 +62,8 @@ img{
     background: #15CD72;
     border: 0;
     cursor: pointer;
-    margin-bottom: 0;
+    margin-bottom: -40px;
+    margin-top: 20px;
     align-items: flex-end;
     position: center;
     border-radius: 5px;
